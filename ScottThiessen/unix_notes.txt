@@ -1,0 +1,6 @@
+- cd (change directory)
+- .. (moves back 1 directory)
+- mkdir (create directory)
+- rmdir (remove directory)
+- mv (move)
+- cp (copy)
