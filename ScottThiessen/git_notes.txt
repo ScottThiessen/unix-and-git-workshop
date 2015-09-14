@@ -1,0 +1,7 @@
+Branch is a label points to a specific time
+-git branch (make a new branch)
+-git checkout
+-git status (staging area)
+-git log (commit circle)
+-touch (creates a file/updates timestamp)
+-git add (adds changes to staging area)
